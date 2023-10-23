@@ -1,2 +1,2 @@
 # design-pattern-symfony
-Les designs patterns utilisés dans symfony
+1- MVC : Il permet la séparation des couches model, view et controller.
